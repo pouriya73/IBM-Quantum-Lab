@@ -1,5 +1,11 @@
 # IBM-Quantum-Lab
 
+
+<img width="1087" alt="Qiskit_Runtime_architecture1" src="https://user-images.githubusercontent.com/13979489/180871988-b5eb53e9-d50e-4542-8e95-92ede7cbdc3f.png">
+
+
+
+
 Plans for 4 new quantum processors, breakthrough technologies and leaps forward in scale, quality and speed. Jay Gambetta and team take us on a journey to 2025 and the era of the quantum-centric supercomputer.
 
 
