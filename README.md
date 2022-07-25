@@ -9,6 +9,14 @@
 Plans for 4 new quantum processors, breakthrough technologies and leaps forward in scale, quality and speed. Jay Gambetta and team take us on a journey to 2025 and the era of the quantum-centric supercomputer.
 
 
+
+
+![ibm-q-hr](https://user-images.githubusercontent.com/13979489/180872278-3e3100d7-8976-4643-a61c-af084f3be245.jpg)
+
+
+
+
+
 ### VQE
 The Variational Quantum Eigensolver (VQE) is a central algorithm in many applications from e.g. quantum chemistry or optimization. This tutorial shows you how to run the VQE as a Qiskit Runtime program. We'll start off by defining the algorithm settings, such as the Hamiltonian and ansatz, and then run a VQE both locally, on your machine, and remotely, using the Qiskit Runtime.
 
